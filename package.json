@@ -1,6 +1,6 @@
 {
-    "name": "@etmsoftware/test",
-    "author": "ETM Software info@etmsoftwareplc.com",
+    "name": "@infinitysoftware/test",
+    "author": "Infinity Software info@infinitysoftwareplc.com",
     "private": true,
     "license": "MIT",
     "scripts": {
